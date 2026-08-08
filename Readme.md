@@ -89,6 +89,21 @@ pymongo>=4.4,<5
 python-dotenv>=1.0.0
 gunicorn>=20.1.0
 ```
+---
+
+# Install Script
+
+Run:
+
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+Purpose:
+
+- Installs required Python packages
+- Simplifies project setup
 
 ---
 
@@ -291,22 +306,6 @@ Example Document:
 
 ---
 
-# Install Script
-
-Run:
-
-```bash
-chmod +x install.sh
-./install.sh
-```
-
-Purpose:
-
-- Installs required Python packages
-- Simplifies project setup
-
----
-
 # Git Commands
 
 Initialize repository:
@@ -342,7 +341,7 @@ git push -u origin main
 
 ---
 
-# Screenshots for Submission
+# Project Assignment document with Screenshots
 
 Include screenshots of:
 
