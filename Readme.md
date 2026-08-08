@@ -88,7 +88,7 @@ gunicorn>=20.1.0
 ```
 ---
 
-# Install Script (All of the inatallation packages are in requirements.txt file)
+# Install Script (All of the installation packages are in requirements.txt file)
 
 Run:
 
