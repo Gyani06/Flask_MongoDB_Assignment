@@ -77,10 +77,7 @@ git --version
 
 Install all required packages:
 
-```bash
-pip install -r requirements.txt
 ```
-
 Contents of requirements.txt:
 
 ```txt
@@ -91,7 +88,7 @@ gunicorn>=20.1.0
 ```
 ---
 
-# Install Script
+# Install Script (All of the inatallation packages are in requirements.txt file)
 
 Run:
 
