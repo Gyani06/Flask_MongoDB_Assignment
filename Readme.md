@@ -79,7 +79,6 @@ Install all required packages:
 
 ```
 Contents of requirements.txt:
-
 ```
 ```txt
 Flask>=2.2,<3
